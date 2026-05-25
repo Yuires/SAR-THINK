@@ -4,7 +4,7 @@
     "conversations": [
       {
         "from": "human",
-        "value": "<image> Offer a succinct explanation of the SAR image presented."
+        "value": "<image> Provide a brief description of the given SAR image."
       },
       {
         "from": "gpt",
@@ -30,7 +30,7 @@
     "conversations": [
       {
         "from": "human",
-        "value": "<image> Summarize the visual content of the SAR image."
+        "value": "<image> Provide a brief description of the given SAR image."
       },
       {
         "from": "gpt",
@@ -48,6 +48,97 @@
       {
         "from": "gpt",
         "value":"<think> The image appears to be an aerial view of a commercial area. Multiple rectangular buildings, typical of commercial zones, are arranged in a grid-like pattern. Surrounding them are large open spaces likely serving as parking lots, demarcated by lines for vehicle organization. A network of roads weaves through the area, providing access to buildings and handling higher traffic volumes with wider thoroughfares. Beyond the developed zone, noticeable grass fields act as green buffers, offering aesthetic, recreational, or zoning separation functions.</think> The image depicts a commercial area with parking lots and a network of roads, all set against the backdrop of surrounding grass fields."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/SV_NewYork_40.7359_-74.0034.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image depicts an urban area characterized by a high density of buildings and infrastructure. The buildings are closely packed together, suggesting a city or a densely populated town. The intersecting roads form a network, indicating a well-planned urban layout, possibly designed to accommodate high traffic flow and connectivity between different parts of the area. Additionally, patches of vegetation are visible, which could be parks, gardens, or areas of green space incorporated into the urban setting. These green areas contribute to the overall urban landscape by providing aesthetic value, recreational spaces, and ecological benefits, such as reducing urban heat and improving air quality. The combination of dense buildings, intersecting roads, and vegetation suggests a complex and developed urban environment, reflecting both human habitation and planning.</think> The image shows a dense, well-planned urban area with buildings, roads, and green spaces."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/GF2_Tokyo_35.4666_139.6702.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image presents an aerial perspective of a pier that extends into a body of water, likely an ocean or large lake. The pier itself stretches out from the land into the water, serving as a prominent feature in the scene. Alongside the pier, several boats are docked, indicating that this location is utilized for maritime activities, possibly recreational or commercial. The arrangement of the boats suggests organized docking facilities, which are typically designed to accommodate various sizes and types of vessels safely.</think> The aerial image shows a pier extending into water with several boats docked alongside."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/P_1073.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image depicts a landscape that is not densely vegetated, indicating a sparse distribution of plant life. The presence of scattered trees suggests that the area might be a savanna or a transitional zone between grassland and forest. The dirt path visible in the image indicates human or animal activity, suggesting that the area is either accessed or traversed regularly. This path might have been formed naturally by the movement of animals or deliberately by humans for travel or exploration purposes. The overall appearance of the landscape, with its mix of vegetation and open spaces, reflects a balance between natural growth and areas that may have been cleared or maintained for movement or other activities.</think> It is a sparsely vegetated savanna or transitional zone with scattered trees and a dirt path."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/P_0943.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image provides an aerial perspective showing several hangars arranged in a manner that allows efficient movement of aircraft in and out of the structures. A helipad—a designated area for helicopter takeoffs and landings—is also clearly visible. The overall layout appears organized and functional within a relatively compact space. These features collectively indicate that this is a small airport that accommodates both fixed-wing and rotary-wing aircraft.</think> The image shows a small airport with hangars and a helipad."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/GF2_Tokyo_35.4778_139.6700.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image presents an aerial perspective that captures the distinct meeting point between land and water, characteristic of a coastline. From this elevated viewpoint, one can observe the natural demarcation where the earth's solid terrain transitions into the expansive body of water. The land appears textured and varied, possibly indicating a mixture of natural landscapes such as beaches, cliffs, or vegetation. Meanwhile, the water contrasts with the land, potentially showing variations in color or texture due to waves, currents, or differing depths.</think> The aerial image captures a coastline."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/SV_Suzhou_31.3062_120.7479.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image presents an aerial view that captures a section of land characterized by a large, grassy field. This field is likely used for agricultural purposes or simply as open grassland, as suggested by its expansive and uniform appearance. Adjacent to this field, there is a canal, which is identifiable by its linear shape and the way it reflects differently compared to the surrounding land. The canal serves as a waterway, potentially used for irrigation, drainage, or transport. Alongside the canal, there is a road, discernible by its smooth, continuous texture and likely darker hue compared to the grass. This road facilitates vehicular movement and possibly serves as a boundary or access route to the field.</think> The image shows a large grassy field next to a canal and a road."
+      }
+    ]
+  },
+  {
+    "image": "/your_path/SV_Brasilia_-15.8422_-47.9123.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image> Provide a brief description of the given SAR image."
+      },
+      {
+        "from": "gpt",
+        "value":"<think> The image presents several key elements that collectively characterize a certain type of land use. Firstly, the presence of multiple large, utilitarian buildings optimized for functionality rather than aesthetics suggests a concentration of facilities typically designed for manufacturing, storage, or other industrial purposes. Additionally, the network of roads visible in the image indicates the infrastructure necessary for transportation and logistics, crucial for supporting the movement of goods and materials in and out of the area. Surrounding these buildings and roads is a grass field, which serves as a buffer between human activities and the natural environment. This grass field could also indicate unused or reserved land, potentially for future expansion or as a means of reducing environmental impact. Overall, the combination of buildings, roads, and a surrounding grass field provides a clear depiction of an industrial area.</think> The image shows a industrial area with utilitarian buildings, roads, and grassland."
       }
     ]
   },
